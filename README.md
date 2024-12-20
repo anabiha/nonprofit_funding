@@ -15,6 +15,8 @@ Non-profits often face limited resources for fundraising and must maximize their
 3. Provide actionable recommendations for non-profits to focus their efforts on high-potential donors
 
 ## Data
+This project uses data from the Kaggle dataset:
+**"Synthetic Fundraising Opportunities"** - Kaggle ([https://www.kaggle.com/datasets/startificial/synthetic-fundraising-opportunities])
 
 ## Technical Skills and Technologies
 
